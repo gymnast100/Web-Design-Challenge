@@ -28,5 +28,5 @@ o	Displays a responsive table containing the data used in the visualizations.
 •	Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
 •	Is responsive (using media queries).
 
-## Finally, the website was  deployed to GitHub pages.
+
 
