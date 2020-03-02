@@ -14,7 +14,7 @@ o	A descriptive title and heading tag.
 o	The plot/visualization itself for the selected comparison.
 o	A paragraph describing the plot and its significance.
 
-![dashboard]("/assets/images/Fig1.png")
+![dashboard]("assets/images/Fig1.png")
 
 ### •	A "Comparisons" page that:
 o	Contains all of the visualizations on the same page so visual comparison  can be easy.
